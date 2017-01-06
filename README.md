@@ -1,6 +1,8 @@
 Notes
 =====
 
+http://ifeve.com/disruptor/
+
 Disruptor Overview
 ----------------------------
 
